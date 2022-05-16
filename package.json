@@ -1,0 +1,28 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "My portfolio where I'll include all my projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eze1er/portfolio.git"
+  },
+  "author": "Ezechiel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eze1er/portfolio/issues"
+  },
+  "homepage": "https://github.com/eze1er/portfolio#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "jquery": "^3.6.0",
+    "jsdom": "^19.0.0",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.14"
+  }
+}
