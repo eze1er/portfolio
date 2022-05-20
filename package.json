@@ -1,21 +1,21 @@
 {
-  "name": "portfolio",
+  "name": "picture-animation",
   "version": "1.0.0",
-  "description": "My portfolio where I'll include all my projects",
+  "description": "A project for animate the picture in 3D",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eze1er/portfolio.git"
+    "url": "git+https://github.com/eze1er/picture-animation.git"
   },
   "author": "Ezechiel",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/eze1er/portfolio/issues"
+    "url": "https://github.com/eze1er/picture-animation/issues"
   },
-  "homepage": "https://github.com/eze1er/portfolio#readme",
+  "homepage": "https://github.com/eze1er/picture-animation#readme",
   "dependencies": {
     "bootstrap": "^3.4.1",
     "jquery": "^3.6.0",
