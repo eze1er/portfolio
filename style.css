@@ -4,8 +4,33 @@ body {
   font-family: 'Expletus sans', cursive;
   background-color: antiquewhite;
 }
+.present {
+  display: flex;
+  width: 200px;
+  height: 250px;
+  border-radius: 100%;
+  /* background-color:rgb(0, 136, 255); */
+  justify-content: center;
+  /* position: static; */
+  flex-direction: column;
+  /* margin-top: 35px; */
+  /* margin-right: 100px;  */
+  text-align: center;
+  margin: 35px;
+}
+img{
+	clip-path: circle();
+  transform:rotateY(180deg);
+}
+.present-text {
+  color: rgb(7, 61, 61);
+  text-orientation: sideways-right;
+  /* background-color: yellow; */
+  text-transform: capitalize;
+  text-align: center;
 
-.portfolio {
+}
+.picture-animation {
   display: flex;
   min-width: 600px;
   max-width: 900px;
