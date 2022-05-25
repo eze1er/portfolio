@@ -10,7 +10,9 @@ body {
 .container {
   overflow: hidden;
   width: 100vh;
-  /* height: 90vh; */
+  height: 95vh;
+  margin-top: 25px;
+  /* margin-bottom: 10px; */
   background-color: #484f57;
 }
 .present {
